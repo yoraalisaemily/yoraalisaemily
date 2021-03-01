@@ -2,7 +2,6 @@
 
 ---
 <p align="center">
-  <img src="https://media.giphy.com/media/H8FP5CniGPbB4zFnRR/giphy.gif" width="30%">
   <img src="https://media.giphy.com/media/7OX3tC5E4LNVgBwCWB/giphy.gif" width="30%"><br>
 </p>
 
