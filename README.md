@@ -19,6 +19,6 @@
 
 ---
 ### The last music I heard on [`Spotify`](https://www.spotify.com)
-<img width="100%" alt="Now Playing" src="https://spotify-recently-played-readme.vercel.app/api?user=31zzjbz63qwpeqtbchkyva6uzjae&width=860" />
+<img width="100%" alt="Now Playing" src="https://spotify-recently-played-readme.vercel.app/api?user=31zzjbz63qwpeqtbchkyva6uzjae&width=400" />
 
 ---
