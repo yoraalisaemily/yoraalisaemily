@@ -12,8 +12,9 @@
 - ⚡ Fun fact: I've never had an `iPhone`
 - 🎮 My hobby is playing `games`
 
+### Reach me at:
+
 ---
-## Reach me at:
 [<img width="27px" src="https://raw.githubusercontent.com/alixcpp/alixcpp/main/assets/telegram.png" />](https://t.me/alixcpp)
 [<img width="20px" src="https://raw.githubusercontent.com/alixcpp/alixcpp/main/assets/protonmail.png" />](mailto:alixcpp@pm.me)
 
