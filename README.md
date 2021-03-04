@@ -11,12 +11,10 @@
 - ⚡ Fun fact: I've never had an `iPhone`
 - 🎮 My hobby is playing `games`
 
----
 ## Reach me at:
 [<img width="27px" src="https://raw.githubusercontent.com/alixcpp/alixcpp/main/assets/telegram.png" />](https://t.me/alixcpp)
 [<img width="20px" src="https://raw.githubusercontent.com/alixcpp/alixcpp/main/assets/protonmail.png" />](mailto:alixcpp@pm.me)
 
----
 ## The last music I heard on [`Spotify`](https://www.spotify.com):
 <img width="100%" alt="Now Playing" src="https://spotify-recently-played-readme.vercel.app/api?user=31zzjbz63qwpeqtbchkyva6uzjae&width=350&count=4" />
 
