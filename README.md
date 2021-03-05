@@ -20,9 +20,9 @@
 <br>
 <p align="center"
 <a href="https://github.com/alixcpp">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alixcpp&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alixcpp&layout=compact&theme=tokyonight&hide_border=true" />
+  </a>
 </p>
-</a>
 </details>
 
 ## Reach me at:
