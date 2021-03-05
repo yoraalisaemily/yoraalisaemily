@@ -31,6 +31,8 @@
 [<img width="26px" src="https://raw.githubusercontent.com/alixcpp/alixcpp/main/assets/twitter.png" />](https://twitter.com/alixcpps)
 
 ## The last music I heard on Spotify:
+<p align="center">
 <a href="https://open.spotify.com/user/31zzjbz63qwpeqtbchkyva6uzjae?si=TwHbAd3oRsCK9kA1TgdvlQ">
-<img width="100%" alt="Now Playing" src="https://spotify-recently-played-readme.vercel.app/api?user=31zzjbz63qwpeqtbchkyva6uzjae&width=350&count=4" />
+<img width="95%" alt="Recently Played" src="https://spotify-recently-played-readme.vercel.app/api?user=31zzjbz63qwpeqtbchkyva6uzjae&width=350&count=4" />
 </a>
+</p>
