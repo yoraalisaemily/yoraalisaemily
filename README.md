@@ -1,9 +1,14 @@
 ## Hi There, I'm Ali 👋 <a href="https://github.com/alixcpp"><img align="right" src="https://komarev.com/ghpvc/?username=alixcpp&style=flat&color=d83a7c" alt="viewer" /></a>
 <p align="center">
-  <img src="https://media.giphy.com/media/7OX3tC5E4LNVgBwCWB/giphy.gif" width="30%"><br>
+<a href="https://github.com/alixcpp">
+  <img src="https://media.giphy.com/media/7OX3tC5E4LNVgBwCWB/giphy.gif" width="30%">
+</a>
+<br>
 </p>
 
-<a href="https://github.com/alixcpp"><img width="20%" align="right" alt="Github" src="https://media.giphy.com/media/oFubGlAHTl57oFMqyi/giphy.gif" /></a>
+<a href="https://github.com/alixcpp">
+<img width="20%" align="right" alt="Github" src="https://media.giphy.com/media/oFubGlAHTl57oFMqyi/giphy.gif" />
+</a>
 
 - 🌱 I’m currently learning `javascript`, `php`, `css`, `html`, and `mysql`
 - 🤔 I’m looking for help with [`Google`](https://google.com)
