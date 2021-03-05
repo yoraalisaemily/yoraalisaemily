@@ -16,7 +16,7 @@
 - 🎮 My hobby is playing `games`
 
 <details>
-<summary><b>Most language i used |</b> <i>Only in the repository, not the language I'm good at</i></summary>
+<summary><b>Most language i used | <i>Only in the repository, not the language I'm good at</i></b></summary>
 <br>
 <p align="center"
 <a href="https://github.com/alixcpp">
