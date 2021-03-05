@@ -18,6 +18,7 @@
 ## Reach me at:
 [<img width="27px" src="https://raw.githubusercontent.com/alixcpp/alixcpp/main/assets/telegram.png" />](https://t.me/alixcpp)
 [<img width="20px" src="https://raw.githubusercontent.com/alixcpp/alixcpp/main/assets/protonmail.png" />](mailto:alixcpp@pm.me)
+[<img width="26px" src="https://raw.githubusercontent.com/alixcpp/alixcpp/main/assets/twitter.png" />](https://twitter.com/alixcpps)
 
 ## The last music I heard on [`Spotify`](https://www.spotify.com):
 <a href="https://open.spotify.com/user/31zzjbz63qwpeqtbchkyva6uzjae?si=TwHbAd3oRsCK9kA1TgdvlQ">
