@@ -15,6 +15,16 @@
 - ⚡ Fun fact: I've never had an `iPhone`
 - 🎮 My hobby is playing `games`
 
+<details>
+<summary><b>My stats |</b> <i>Click here!!!</i></summary>
+<br>
+<p align="center"
+<a href="https://github.com/alixcpp">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alixcpp&layout=compact" />
+</p>
+</a>
+</details>
+
 ## Reach me at:
 [<img width="27px" src="https://raw.githubusercontent.com/alixcpp/alixcpp/main/assets/telegram.png" />](https://t.me/alixcpp)
 [<img width="20px" src="https://raw.githubusercontent.com/alixcpp/alixcpp/main/assets/protonmail.png" />](mailto:alixcpp@pm.me)
