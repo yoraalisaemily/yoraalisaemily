@@ -39,6 +39,8 @@
 <a href="https://github.com/alixcpp">
   <img src="https://img.shields.io/badge/AMD-Radeon_RX_Vega_8-ED1C24?style=for-the-badge&logo=amd&logoColor=white" />
   <img src="https://img.shields.io/badge/AMD-Ryzen_3_3200G-ED1C24?style=for-the-badge&logo=amd&logoColor=white" />
+  <img src="https://img.shields.io/badge/SAMSUNG-24SR35x-00c3ff?style=for-the-badge&logo=samsung&logoColor=white" />
+  <img src="https://img.shields.io/badge/GIGABYTE-A320M%20S2H%20V2-ffb700?style=for-the-badge" />
   </a>
   
 <h3 align="center">Reach Me at</h3>
