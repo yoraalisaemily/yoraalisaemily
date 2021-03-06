@@ -25,7 +25,7 @@
 </p>
 </details>
 
-<h3 align="center">Operating System</h3>
+<h3 align="center">My Operating System</h3>
 <p align="center">
 <a href="https://github.com/alixcpp">
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
@@ -41,6 +41,7 @@
   <img src="https://img.shields.io/badge/AMD-Ryzen_3_3200G-ED1C24?style=for-the-badge&logo=amd&logoColor=white" />
   <img src="https://img.shields.io/badge/SAMSUNG-24SR35x-00c3ff?style=for-the-badge&logo=samsung&logoColor=white" />
   <img src="https://img.shields.io/badge/GIGABYTE-A320M%20S2H%20V2-ffb700?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/XIAOMI-Mi_8_Lite-0703fc?style=for-the-badge&logo=xiaomi&logoColor=orange" />
   </a>
   
 <h3 align="center">Reach Me at</h3>
@@ -65,9 +66,11 @@
 </a>
 </p>
 
+<!--
 <h3 align="center">The Last Music I Heard on Spotify</h3>
 <p align="center">
 <a href="https://open.spotify.com/user/31zzjbz63qwpeqtbchkyva6uzjae?si=TwHbAd3oRsCK9kA1TgdvlQ">
 <img width="90%" alt="Recently Played" src="https://spotify-recently-played-readme.vercel.app/api?user=31zzjbz63qwpeqtbchkyva6uzjae&width=350&count=4" />
 </a>
 </p>
+-->
