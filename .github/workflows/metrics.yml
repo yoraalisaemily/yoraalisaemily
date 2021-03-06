@@ -17,13 +17,17 @@ jobs:
           committer_token: ${{ secrets.TOKEN }}
 
           # Options
-          user: repository-owner
+          user: alixcpp
           template: classic
-          base: header, activity, community, metadata
+          base: activity, community, metadata
           config_timezone: Asia/Jakarta
           config_twemoji: yes
+          plugin_introduction: yes
+          plugin_introduction_title: yes
           plugin_pagespeed: yes
+          plugin_pagespeed_detailed: yes
           plugin_pagespeed_url: alixcpp.github.io
           plugin_tweets: yes
           plugin_tweets_limit: 2
           plugin_tweets_user: alixcpps
+          repositories_forks: yes
