@@ -25,7 +25,7 @@
 </p>
 
 <details>
-<summary><b>Most language i used | <i>Only in the repository, not the language I'm good at</i></b></summary>
+<summary><b>Most of the languages I use | <i>Only in the repository, not the language I'm good at</i></b></summary>
 <br>
 <p align="center">
 <a href="https://github.com/alixcpp">
