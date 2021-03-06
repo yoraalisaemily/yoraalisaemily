@@ -1,4 +1,4 @@
-## Hi There, I'm Ali 👋 <a href="https://github.com/alixcpp"><img align="right" src="https://komarev.com/ghpvc/?username=alixcpp&style=flat&color=d83a7c" alt="viewer" /></a>
+<h3 align="left">Hi There, I'm Ali 👋</h3> <a href="https://github.com/alixcpp"><img align="right" src="https://komarev.com/ghpvc/?username=alixcpp&style=flat&color=d83a7c" alt="viewer" /></a>
 <p align="center">
 <a href="https://github.com/alixcpp">
   <img src="https://media.giphy.com/media/7OX3tC5E4LNVgBwCWB/giphy.gif" width="30%">
@@ -15,15 +15,6 @@
 - ⚡ Fun fact: I've never had an `iPhone`
 - 🎮 My hobby is playing `games`
 
-<h3 align="center">Operating System</h3>
-<p align="center">
-<a href="https://github.com/alixcpp">
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  </a>
-</p>
-
 <details>
 <summary><b>Most of the languages I use | <i>Only in the repository, not the language I'm good at</i></b></summary>
 <br>
@@ -33,6 +24,15 @@
   </a>
 </p>
 </details>
+
+<h3 align="center">Operating System</h3>
+<p align="center">
+<a href="https://github.com/alixcpp">
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  </a>
+</p>
 
 <h3 align="center">My Workspace Specifications</h3>
 <p align="center">
