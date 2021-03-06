@@ -1,12 +1,12 @@
 <h3 align="left">Hi There, I'm Ali 👋<a href="https://github.com/alixcpp"><img align="right" src="https://komarev.com/ghpvc/?username=alixcpp&style=flat&color=d83a7c" alt="viewer" /></a></h3>
 <p align="center">
-<a href="https://github.com/alixcpp">
+<a href="#">
   <img src="https://media.giphy.com/media/7OX3tC5E4LNVgBwCWB/giphy.gif" width="30%">
 </a>
 <br>
 </p>
 
-<a href="https://github.com/alixcpp">
+<a href="#">
 <img width="20%" align="right" alt="Github" src="https://media.giphy.com/media/oFubGlAHTl57oFMqyi/giphy.gif" />
 </a>
 
@@ -19,7 +19,7 @@
 <summary><b>Most of the languages I use | <i>Only in the repository, not the language I'm good at</i></b></summary>
 <br>
 <p align="center">
-<a href="https://github.com/alixcpp">
+<a href="#">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alixcpp&layout=compact&theme=tokyonight&hide_border=true" />
   </a>
 </p>
@@ -27,7 +27,7 @@
 
 <h3 align="center">Operating System</h3>
 <p align="center">
-<a href="https://github.com/alixcpp">
+<a href="#operating-system">
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
@@ -36,7 +36,7 @@
 
 <h3 align="center">Workspace Specifications</h3>
 <p align="center">
-<a href="https://github.com/alixcpp">
+<a href="#workspace-specifications">
   <img src="https://img.shields.io/badge/AMD-Radeon_RX_Vega_8-ED1C24?style=for-the-badge&logo=amd&logoColor=white" />
   <img src="https://img.shields.io/badge/AMD-Ryzen_3_3200G-ED1C24?style=for-the-badge&logo=amd&logoColor=white" />
   <img src="https://img.shields.io/badge/GIGABYTE-A320M%20S2H%20V2-ffb700?style=for-the-badge" />
@@ -64,7 +64,9 @@
 </a>
 <br>
   <br>
+  <a href"#connect-with-me">
 <img src="https://metrics.lecoq.io/alixcpp?template=classic&repositories.forks=true&base.header=0&base.repositories=0&pagespeed=1&tweets=1&introduction=1&introduction.title=true&pagespeed.url=alixcpp.github.io&pagespeed.detailed=true&pagespeed.screenshot=false&tweets.limit=2&tweets.user=alixcpps&config.timezone=Asia%2FJakarta&config.twemoji=true" />
+  </a>
   </p>
   
 <!--
