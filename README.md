@@ -62,11 +62,9 @@
 <a href="https://gitlab.com/alixcpp">
 <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" />
 </a>
-  </p>
-
-<h3>About Me</>
+<br>
 <img src="https://metrics.lecoq.io/alixcpp?template=classic&repositories.forks=true&base.header=0&base.repositories=0&pagespeed=1&tweets=1&introduction=1&introduction.title=true&pagespeed.url=alixcpp.github.io&pagespeed.detailed=true&pagespeed.screenshot=false&tweets.limit=2&tweets.user=alixcpps&config.timezone=Asia%2FJakarta&config.twemoji=true" />
-
+  </p>
 <!--
 <h3 align="center">The Last Music I Heard on Spotify</h3>
 <p align="center">
