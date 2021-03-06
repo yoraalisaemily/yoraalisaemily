@@ -15,6 +15,15 @@
 - ⚡ Fun fact: I've never had an `iPhone`
 - 🎮 My hobby is playing `games`
 
+<h3 align="center">Operating System</h3>
+<p align="center">
+<a href="https://github.com/alixcpp">
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  </a>
+</p>
+
 <details>
 <summary><b>Most language i used | <i>Only in the repository, not the language I'm good at</i></b></summary>
 <br>
@@ -25,7 +34,7 @@
 </p>
 </details>
 
-## Reach me at:
+<h3 align="center">Reach me at</h3>
 <p align="center">
 <a href="https://t.me/alixcpp">
 <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
@@ -47,7 +56,7 @@
 </a>
 </p>
 
-## The last music I heard on Spotify:
+<h3 align="center">The last music I heard on Spotify</h3>
 <p align="center">
 <a href="https://open.spotify.com/user/31zzjbz63qwpeqtbchkyva6uzjae?si=TwHbAd3oRsCK9kA1TgdvlQ">
 <img width="90%" alt="Recently Played" src="https://spotify-recently-played-readme.vercel.app/api?user=31zzjbz63qwpeqtbchkyva6uzjae&width=350&count=4" />
