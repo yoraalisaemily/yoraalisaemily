@@ -34,13 +34,20 @@
 </p>
 </details>
 
-<h3 align="center">Reach me at</h3>
+<h3 align="center">My Workspace Specifications</h3>
+<p align="center">
+<a href="https://github.com/alixcpp">
+  <img src="https://img.shields.io/badge/AMD-Radeon_RX_Vega_8-ED1C24?style=for-the-badge&logo=amd&logoColor=white" />
+  <img src="https://img.shields.io/badge/AMD-Ryzen_3_3200G-ED1C24?style=for-the-badge&logo=amd&logoColor=white" />
+  </a>
+  
+<h3 align="center">Reach Me at</h3>
 <p align="center">
 <a href="https://t.me/alixcpp">
 <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
 </a>
 <a href="mailto:alirhmn@hotmail.com">
-<img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
+<img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
 </a>
 <a href="mailto:alixcpp@pm.me">
 <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" />
@@ -56,7 +63,7 @@
 </a>
 </p>
 
-<h3 align="center">The last music I heard on Spotify</h3>
+<h3 align="center">The Last Music I Heard on Spotify</h3>
 <p align="center">
 <a href="https://open.spotify.com/user/31zzjbz63qwpeqtbchkyva6uzjae?si=TwHbAd3oRsCK9kA1TgdvlQ">
 <img width="90%" alt="Recently Played" src="https://spotify-recently-played-readme.vercel.app/api?user=31zzjbz63qwpeqtbchkyva6uzjae&width=350&count=4" />
