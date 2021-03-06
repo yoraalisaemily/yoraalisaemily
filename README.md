@@ -64,7 +64,7 @@
 </a>
 </p>
 
-![Metrics](https://metrics.lecoq.io/alixcpp?template=classic&base.repositories=0&pagespeed=1&tweets=1&pagespeed.url=alixcpp.github.io&pagespeed.detailed=false&pagespeed.screenshot=false&tweets.limit=2&tweets.user=alixcpps&config.timezone=Asia%2FJakarta&config.twemoji=true)
+<img src="https://metrics.lecoq.io/alixcpp?template=classic&base.repositories=0&pagespeed=1&tweets=1&pagespeed.url=alixcpp.github.io&pagespeed.detailed=false&pagespeed.screenshot=false&tweets.limit=2&tweets.user=alixcpps&config.timezone=Asia%2FJakarta&config.twemoji=true">
 
 <!--
 <h3 align="center">The Last Music I Heard on Spotify</h3>
