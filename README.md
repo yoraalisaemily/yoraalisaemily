@@ -64,7 +64,9 @@
 </a>
 <br>
   <br>
-  <a href"#connect-with-me">
+  </p>
+  <p align="center">
+  <a href"#operating-system">
 <img src="https://metrics.lecoq.io/alixcpp?template=classic&repositories.forks=true&base.header=0&base.repositories=0&pagespeed=1&tweets=1&introduction=1&introduction.title=true&pagespeed.url=alixcpp.github.io&pagespeed.detailed=true&pagespeed.screenshot=false&tweets.limit=2&tweets.user=alixcpps&config.timezone=Asia%2FJakarta&config.twemoji=true" />
   </a>
   </p>
