@@ -64,14 +64,17 @@
 </a>
 <br>
   <br>
+<a href="connect-with-me">
+<img src="github-metrics.svg" />
+<a>
   </p>
+
+<!--
   <p align="center">
   <a href"#operating-system">
 <img src="https://metrics.lecoq.io/alixcpp?template=classic&repositories.forks=true&base.header=0&base.repositories=0&pagespeed=1&tweets=1&introduction=1&introduction.title=true&pagespeed.url=alixcpp.github.io&pagespeed.detailed=true&pagespeed.screenshot=false&config.timezone=Asia%2FJakarta" />
   </a>
   </p>
-  
-<!--
 <h3 align="center">The Last Music I Heard on Spotify</h3>
 <p align="center">
 <a href="https://open.spotify.com/user/31zzjbz63qwpeqtbchkyva6uzjae?si=TwHbAd3oRsCK9kA1TgdvlQ">
