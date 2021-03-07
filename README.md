@@ -64,9 +64,7 @@
 </a>
 <br>
   <br>
-<a href="#connect-with-me">
 <img src="github-metrics.svg" />
-<a>
   </p>
 
 <!--
