@@ -1,4 +1,4 @@
-<h3 align="left">Hi There, I'm Ali 👋<a href="https://github.com/alixcpp"><img align="right" src="https://komarev.com/ghpvc/?username=alixcpp&style=flat&color=d83a7c" alt="viewer" /></a></h3>
+<h3 align="left">Hi There 👋<a href="https://github.com/alixcpp"><img align="right" src="https://komarev.com/ghpvc/?username=alixcpp&style=flat&color=d83a7c" alt="viewer" /></a></h3>
 <p align="center">
 <a href="#">
   <img src="https://media.giphy.com/media/7OX3tC5E4LNVgBwCWB/giphy.gif" width="30%">
@@ -10,7 +10,7 @@
 #include <iostream>
 
 int main() {
-    std::cout << "Hello World!";
+    std::cout << "My Name is Ali!";
     return 0;
 }
 
