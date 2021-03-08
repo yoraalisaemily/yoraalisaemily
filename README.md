@@ -6,14 +6,15 @@
 <br>
 </p>
 
-<a href="#">
-<img width="20%" align="right" alt="Github" src="https://media.giphy.com/media/oFubGlAHTl57oFMqyi/giphy.gif" />
-</a>
+```
+#include <iostream>
 
-- 🌱 I’m currently learning `javascript`, `php`, `css`, `html`, and `mysql`
-- 🤔 I’m looking for help with [`Google`](https://google.com)
-- ⚡ Fun fact: I've never had an `iPhone`
-- 🎮 My hobby is playing `games`
+int main() {
+    std::cout << "Hello World!";
+    return 0;
+}
+
+```
 
 <details>
 <summary><b>Most of the languages I use | <i>Only in the repository, not the language I'm good at</i></b></summary>
