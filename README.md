@@ -13,9 +13,9 @@ int main() {
     std::cout << "My Name is Ali!";
     return 0;
 }
-
 ```
 
+<!--
 <details>
 <summary><b>Most of the languages I use | <i>Only in the repository, not the language I'm good at</i></b></summary>
 <br>
@@ -25,6 +25,7 @@ int main() {
   </a>
 </p>
 </details>
+-->
 
 <h3 align="center">Operating System</h3>
 <p align="center">
