@@ -68,7 +68,7 @@ int main(){
 </a>
 <br>
   <br>
-<a href"#connect-with-me">
+<a href="#connect-with-me">
 <img src="github-metrics.svg" />
 </a>
   </p>
