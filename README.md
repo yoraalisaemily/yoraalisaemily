@@ -1,17 +1,19 @@
-<h3 align="left">Hi There 👋<a href="https://github.com/alixcpp"><img align="right" src="https://komarev.com/ghpvc/?username=alixcpp&style=flat&color=d83a7c" alt="viewer" /></a></h3>
+<h3 align="left">About Me <a href="https://github.com/alixcpp"><img align="right" src="https://komarev.com/ghpvc/?username=alixcpp&style=flat&color=d83a7c" alt="viewer" /></a></h3>
 <p align="center">
 <a href="#">
-  <img src="https://media.giphy.com/media/7OX3tC5E4LNVgBwCWB/giphy.gif" width="30%">
+  <img src="https://media.giphy.com/media/3lZKbfViPnZS/giphy.gif" width="30%">
 </a>
 <br>
 </p>
 
 ```
 #include <iostream>
+using namespace std;
 
-int main() {
-    std::cout << "My Name is Ali!";
-    return 0;
+int main(){
+   cout << "Hello world 👋" << endl;
+   cout << "My name is Ali :)" << endl;
+   return 0;
 }
 ```
 
