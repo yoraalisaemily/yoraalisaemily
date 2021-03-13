@@ -1,4 +1,4 @@
-<h3 align="left">About Me <a href="https://github.com/alixcpp"><img align="right" src="https://komarev.com/ghpvc/?username=alixcpp&style=flat&color=d83a7c" alt="viewer" /></a></h3>
+<h3 align="left">Lemme introduce myself <a href="https://github.com/alixcpp"><img align="right" src="https://komarev.com/ghpvc/?username=alixcpp&style=flat&color=d83a7c" alt="viewer" /></a></h3>
 <p align="center">
 <a href="#">
   <img src="https://media.giphy.com/media/3lZKbfViPnZS/giphy.gif" width="30%">
@@ -60,7 +60,7 @@ int main(){
 <a href="https://instagram.com/alixllvm">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
-<a href="https://twitter.com/alixcpps">
+<a href="https://twitter.com/bashlightyear">
 <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
 </a>
 <a href="https://gitlab.com/alixcpp">
