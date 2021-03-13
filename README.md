@@ -1,9 +1,8 @@
 <h3 align="left">Lemme introduce myself <a href="https://github.com/alixcpp"><img align="right" src="https://komarev.com/ghpvc/?username=alixcpp&style=flat&color=d83a7c" alt="viewer" /></a></h3>
 <p align="center">
 <a href="#">
-  <img src="https://media.giphy.com/media/3lZKbfViPnZS/giphy.gif" width="30%">
+  <img src="https://media.giphy.com/media/3lZKbfViPnZS/giphy.gif" width="50%">
 </a>
-<br>
 </p>
 
 ```
