@@ -1,7 +1,7 @@
 <h3 align="left">Hello World 👋 <a href="https://github.com/yoraalisaemily"><img align="right" src="https://komarev.com/ghpvc/?username=yoraalisaemily&style=flat&color=d83a7c" alt="viewer" /></a></h3>
 <p align="center">
 <a href="#">
-  <img src="https://media.giphy.com/media/3lZKbfViPnZS/giphy.gif" width="50%">
+  <img src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" width="50%">
 </a>
 </p>
 
