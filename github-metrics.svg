@@ -907,6 +907,18 @@
     stroke-width: 6;
   }
 
+/* RSS feed */
+  .rss {
+    align-items: flex-start;
+  }
+  .rss .infos {
+    margin-bottom: 3px;
+  }
+  .rss .infos .date {
+    font-size: 10px;
+    color: #666666;
+  }
+
 /* Fade animation */
   .af {
     opacity: 0;
@@ -1131,6 +1143,8 @@
         
       
         
+      
+        
 
 
 
@@ -1191,7 +1205,7 @@
           
             <span>These metrics include private contributions, timezone Asia/Jakarta</span>
           
-          <span>Last updated Sun, 21 Mar 2021 12:18:38 GMT with lowlighter/metrics@3.6.0-beta</span>
+          <span>Last updated Sun, 21 Mar 2021 15:10:14 GMT with lowlighter/metrics@3.6.0-beta</span>
         </footer>
       
       <div id="metrics-end"></div>
