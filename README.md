@@ -14,9 +14,11 @@ class AboutMe {
 }
 ```
 
+<!--
 <p align="center">
   <br>
 <a href="#">
 <img src="github-metrics.svg" />
 </a>
   </p>
+-->
