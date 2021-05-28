@@ -1298,8 +1298,8 @@
                 </div>
             </section>
             <footer>
-                <span>These metrics include private contributions, timezone Asia/Jakarta</span>
-                <span>Last updated Fri, 28 May 2021 16:35:24 with lowlighter/metrics@3.10.0-beta</span>
+                <span>These metrics include private contributions</span>
+                <span>Last updated Fri, 28 May 2021 19:38:57 (timezone Asia/Jakarta) with lowlighter/metrics@3.10.0-beta</span>
             </footer>
             <div id="metrics-end"></div>
         </div>
