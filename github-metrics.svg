@@ -250,7 +250,7 @@
     justify-content: space-around;
     margin-top: 4px;
   }
-  .categorie {
+  .category {
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -1299,7 +1299,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated Sat, 29 May 2021 04:21:01 (timezone Asia/Jakarta) with lowlighter/metrics@3.10.0-beta</span>
+                <span>Last updated Sat, 29 May 2021 08:08:24 (timezone Asia/Jakarta) with lowlighter/metrics@3.10.0-beta</span>
             </footer>
             <div id="metrics-end"></div>
         </div>
