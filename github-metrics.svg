@@ -93,6 +93,9 @@
     margin-bottom: 2px;
     white-space: nowrap;
   }
+  .field.wrap {
+    flex-wrap: wrap;
+  }
   .field svg {
     margin: 0 8px;
     fill: #959da5;
@@ -108,6 +111,7 @@
 /* Displays */
   .row {
     display: flex;
+    flex-wrap: wrap;
   }
   .row section {
     flex: 1 1 0;
@@ -230,6 +234,9 @@
   }
   .followup.legend svg:last-child {
     margin-right: 0;
+  }
+  .followup-title{
+    white-space: initial;
   }
 
 /* Labels */
@@ -1015,6 +1022,7 @@
     border-radius: 16px;
     font-size: 10px;
     padding: 0 5px;
+    white-space: nowrap;
   }
   .achievement .gauge-base, .achievement .gauge-arc {
     stroke-width: 6;
@@ -1321,7 +1329,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated Wed, 09 Jun 2021 21:09:54 (timezone Asia/Jakarta) with lowlighter/metrics@3.11.0-beta</span>
+                <span>Last updated Thu, 10 Jun 2021 00:35:17 (timezone Asia/Jakarta) with lowlighter/metrics@3.11.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
