@@ -13,7 +13,7 @@ jobs:
           committer_token: ${{ secrets.GITHUB_TOKEN }}
 
           # Options
-          user: yoraalisaemily
+          user: yoralsamly
           template: classic
           base: activity, community, metadata
           config_timezone: Asia/Jakarta
